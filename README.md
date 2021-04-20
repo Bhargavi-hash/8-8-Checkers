@@ -17,6 +17,11 @@ version of this game.
    the next k turns (if both players make a move each,
    that is counted as two turns), where k is a number
    that the player gives.
+# Checker Board Numbering
+
+![Untitled drawing (1)](https://user-images.githubusercontent.com/82858718/115345071-e22d8880-a1cb-11eb-8a60-6e8ed9e0abe8.png)
+
+
 # Checker-board RULES
 
 1) Each player starts with 12 men on the dark squares of the 3 rows nearest to that players side.
