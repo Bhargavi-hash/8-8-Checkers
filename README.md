@@ -28,8 +28,12 @@ version of this game.
 There are two different ways to move in English draughts:
 
 Simple move: 
+
 A simple move consists of moving a piece one square diagonally to an adjacent unoccupied dark square. Uncrowned pieces can move diagonally forward only; kings can move in any diagonal direction.
 
 Jump: 
+
 A jump consists of moving a piece that is diagonally adjacent an opponent's piece, to an empty square immediately beyond it in the same direction (thus "jumping over" the opponent's piece front and back ). Men can jump diagonally forward only; kings can jump in any diagonal direction. A jumped piece is considered "captured" and removed from the game. Any piece, king or man, can jump a king.
-NOTE: if a player has the option to jump, he must take it, even if doing so results in disadvantage for the jumping player. 
+NOTE: 
+
+If a player has the option to jump, he must take it, even if doing so results in disadvantage for the jumping player. 
